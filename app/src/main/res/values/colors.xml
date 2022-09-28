@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5757</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorPrimaryDarkBack">#FF5757</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="navigationBack">#001e3b</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="yellowColor">#d4f403</color>
+    <color name="blackTranslucent">#3445B3E0</color>
+    <color name="whiteTranslucent">#8effffff</color>
+    <color name="whiteTranslucent_full">#1DFFFFFF</color>
+    <color name="colorCyanTeal">#16A699</color>
+    <color name="blueColor">#3700B3</color>
+    <color name="lightBlueColor">#45b3e0</color>
+    <color name="blackColor">#000000</color>
+    <color name="blueBackground">#4A3700B3</color>
+    <color name="lightGrey">#f9f9f9</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorBlackTrans">#3C4E4C4C</color>
+    <color name="colorGolden">#FFDF00</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorLTGreen">#ECC6FCC6</color>
+    <color name="colorLTGreen1">#E1EEFA</color>
+    <color name="colorWhiteTrans">#DF9B9A9A</color>
+    <color name="grey_color">#787878</color>
+    <color name="orange_color">#FF5900</color>
+    <color name="action_bar_primary">@color/colorPrimary</color>
+
+    <color name="full_transparent">#00FFFFFF</color>
+
+    <!--OnBoard-->
+
+    <color name="selected_dot">#2D9CDB</color>
+    <color name="idle_dot">#662D9CDB</color>
+    <color name="ob_header">#4A4A4A</color>
+    <color name="ob_desc">#4A4A4A</color>
+    <color name="primary_variant">#F7FF5757</color>
+
+</resources>
